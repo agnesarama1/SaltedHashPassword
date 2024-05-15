@@ -1,0 +1,22 @@
+
+*{
+    /* background-image: url('../images/background.jpg'); */
+    /* background-color: #708090; */
+}
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover; 
+    /* background-repeat: no-repeat;  */
+    /* background-attachment: fixed;  */
+    /* position: fixed; */
+    margin: 0; 
+    padding: 0; 
+    /* height: 100vh; */
+}
+.container{
+    
+    text-align: center;
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
