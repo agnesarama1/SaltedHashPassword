@@ -1,6 +1,6 @@
 # SaltedHashPassword - Application
-Ky projekt u punua nga studentet e vitit te dyte te Fakultetit te Inxhinierise Elektrike dhe Kompjuterike ne Universitetin 'Hasan Prishtina' nen udheheqjen e Prof. Dr. Blerim Rexha dhe Asist. Mërgim Hoti ne lenden Siguri e te Dhenave.
-# Contributors
+Ky projekt u punua nga studentët e vitit të dytë të Fakultetit të Inxhinierisë Elektrike dhe Kompjuterike në Universitetin 'Hasan Prishtina' nën udhëheqjen e Prof. Dr. Blerim Rexha dhe Asist. Mërgim Hoti në lëndën Siguri e të Dhënave.
+# Kontributorët
 * Agnesa Rama
 * Agnesa Mani
 * Agnesa Hulaj
