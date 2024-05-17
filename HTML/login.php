@@ -63,5 +63,21 @@ mysqli_close($conn);
                     <div class="section text-center">
                       <h4 class="mb-4 pb-3">Log In
                       </h4>
+                      <div class="form-group">
+                        <input type="email" class="form-style" name="email" placeholder="Email">
+                        <i class="input-icon uil uil-at"></i>
+                      </div>
+                      <div class="form-group mt-2">
+                        <input type="password" class="form-style" name = "password" placeholder="Password">
+                        <i class="input-icon uil uil-lock-alt"></i>
+                      </div>
+                     <input class='btn' type="submit" name="submit" value="Login"></input>
+                      <p class="signupklasa"><a href="signup.php" class="createacc">Create an account.</p>
+
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
 </form>
 </body>
