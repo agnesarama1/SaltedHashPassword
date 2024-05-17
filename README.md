@@ -28,4 +28,8 @@ Ky skedar përmban stilizimin për faqen e kyçjes. Ai përfshin stilizimet për
 3. signup.css
 Ky skedar përmban stilizimin për faqen e regjistrimit. Ai përfshin stilizimet për formën e regjistrimit, duke siguruar që ajo është në përputhje me stilin e përgjithshëm të aplikacionit.
 
+# Burimet e perdorura
+Imazhet: Imazhet e përdorura në projekt, si sfondi (background.jpg), janë të vendosura në dosjen përkatëse dhe përdoren për të përmirësuar pamjen vizuale të faqes.
+Bibliotekat e Jashtme: Projekti përdor biblioteka të jashtme si Bootstrap për stilizimin e përgjegjshëm dhe Unicons për ikonat.
+
 
