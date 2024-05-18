@@ -37,4 +37,18 @@
     -webkit-transition: all 200ms linear;
      transition: all 200ms linear;
   }
+
+  .checkbox:checked + label:before,
+  .checkbox:not(:checked) + label:before{
+    position: absolute;
+    display: block;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    color: #b38481;
+   background-color: #273c75a9;
+    font-family: 'unicons';
+    content: '\eb4f';
+    z-index: 20;
+  }
   
