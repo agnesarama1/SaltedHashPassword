@@ -1,0 +1,10 @@
+/*background i box-it*/
+.card-front, .card-back {
+    width: 100%;
+    height: 100%;
+    background-color:  #734B8C;
+    position: absolute;
+    border-radius: 15px;
+    box-shadow: 5px 10px;
+  }
+  
