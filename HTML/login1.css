@@ -131,3 +131,37 @@
     color: #ffeba7;
     box-shadow: 0 8px 24px 0 rgba(235, 236, 241, 0.2);
   }
+  .center-wrap{
+    position: absolute;
+    width: 100%;
+    padding: 0 35px;
+    top: 50%;
+    left: 0;
+    transform: translate3d(0, -50%, 35px) perspective(100px);
+    z-index: 20;
+    display: block;
+  }
+  .signupklasa{
+    margin-top: 5%;
+    text-decoration: none;
+    color: #000000;
+   
+  }
+  .createacc{
+    text-decoration: none;
+    color:#000000;
+  }
+  .link{
+    text-decoration: none;
+    color:#000000;
+  }
+  .createacc:hover{
+    text-decoration: none;
+    color: #ffeba7;
+  }
+  .link:hover{
+    text-decoration: none;
+    color: #ffeba7;
+  }
+ 
+
