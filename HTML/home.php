@@ -25,17 +25,7 @@ if (isset($_POST['logout'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HomePage</title>
     <link rel="stylesheet" href="../CSS/home.css">
-    <!-- <style>
-        body {
-            background-color: #708090; 
-            background-size: cover; 
-            background-repeat: no-repeat; 
-            background-attachment: fixed; 
-            margin: 0; 
-            padding: 0; 
-            height: 100vh;
-        }
-    </style> -->
+
 </head>
 <body>
 <div class="back"></div>
